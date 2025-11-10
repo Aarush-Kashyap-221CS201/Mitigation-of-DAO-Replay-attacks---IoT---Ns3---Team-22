@@ -1,0 +1,8 @@
+no attack
+./ns3 run "ns3_rpl_dao_mitigation --attack=false --nNodes=25 --area=60 --rateKbps=16 --simTime=120"
+
+attack only
+./ns3 run "ns3_rpl_dao_mitigation --attack=true --attackerPps=800 --attackerPkt=120 --threshold=1000000000 --nNodes=25 --area=60 --rateKbps=16 --simTime=120"
+
+attack + mitigation
+./ns3 run "ns3_rpl_dao_mitigation --attack=true --attackerPps=800 --attackerPkt=120 --threshold=20 --windowSec=1.0 --nNodes=25 --area=60 --rateKbps=16 --simTime=120"

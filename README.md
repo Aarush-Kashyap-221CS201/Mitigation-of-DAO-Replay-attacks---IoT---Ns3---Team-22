@@ -415,11 +415,3 @@ Immediate mitigation → Rate drops 10x
 1. Raza et al., "SVELTE: Real-time intrusion detection in the Internet of Things"
 2. Dvir et al., "VeRA - Version Number and Rank Authentication in RPL"
 3. Ghaleb et al., "Addressing the DAO Insider Attack in RPL's Internet of Things Networks"
-
----
-
----
-
-**Made with ❤️ for IoT Security Research**
-
-*If this project helped your research, please consider giving it a ⭐!*

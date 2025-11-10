@@ -1,7 +1,6 @@
 # RPL DAO Attack Mitigation
 
 [![NS-3](https://img.shields.io/badge/NS--3-3.45-blue.svg)](https://www.nsnam.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![IoT Security](https://img.shields.io/badge/IoT-Security-red.svg)](https://www.rfc-editor.org/rfc/rfc6550)
 
 > A lightweight, real-time defense mechanism against DAO replay attacks in RPL-based IoT networks using sliding-window threshold detection and adaptive rate limiting.
